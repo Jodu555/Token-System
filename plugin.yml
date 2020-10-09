@@ -1,0 +1,7 @@
+name: TokenSystem
+author: Jodu555
+version: 3.0
+main: de.Jodu555.TokenSystem.TokenSystem
+api-version: 1.13
+commands:
+  token:
